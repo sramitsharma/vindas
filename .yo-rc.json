@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "vindas",
+    "packageName": "com.sramit.vindas",
+    "packageFolder": "com/sramit/vindas",
+    "serverPort": 8084,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "YWIxZjQ3MGExOWMwMGM1ZTBjZDYzNjFhNTAyNDhiMDI5MDI5ZDgyN2Y3Mzg1ZDQ3NGIzOWQ2YmY5OWI4N2ZiMGQ0OWI2ZGNiNmYwMDFhMDExNjc1NzBjY2I1M2YzYTdhYWZhNjM5YWExMzA4ZTNlMGY4OTYwN2ZiMjJkMTQ4ZGY=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sramitsharma",
+  "repository-name": "vindas"
+}
